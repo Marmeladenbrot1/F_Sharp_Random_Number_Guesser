@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6IEfpIMHnhVYi1xLb6M+lLaMSr3/7ge1TdtHrPQAyVx/isQWjP8EE69w9kGyMtNz/rgT/872lgl9JwW/081dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BBB\\Documents\\Schule\\BBB\\324\\F_Sharp_Random_Number_Guesser\\FSharpRandomNumberGuessor\\FSharpBibliotek\\FSharpBibliotek.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BBB\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

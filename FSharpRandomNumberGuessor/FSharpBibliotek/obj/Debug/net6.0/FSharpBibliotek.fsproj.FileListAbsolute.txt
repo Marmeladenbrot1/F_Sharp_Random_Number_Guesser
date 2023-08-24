@@ -1,0 +1,11 @@
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\bin\Debug\net6.0\FSharpBibliotek.deps.json
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\bin\Debug\net6.0\FSharpBibliotek.dll
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\bin\Debug\net6.0\FSharpBibliotek.pdb
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\bin\Debug\net6.0\FSharpBibliotek.xml
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.fsproj.AssemblyReference.cache
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.AssemblyInfoInputs.cache
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.AssemblyInfo.fs
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.fsproj.CoreCompileInputs.cache
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.dll
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.xml
+C:\Users\BBB\Documents\Schule\BBB\324\F_Sharp_Random_Number_Guesser\FSharpRandomNumberGuessor\FSharpBibliotek\obj\Debug\net6.0\FSharpBibliotek.pdb
