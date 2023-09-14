@@ -56,6 +56,7 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Eine Zahl zwischen 1 und 100 wurde generiert. Versuche diese herauszufinden.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -88,6 +89,7 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "zu Tief";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -98,6 +100,7 @@
             this.label4.TabIndex = 5;
             this.label4.Text = "Richtig";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // button2
             // 
