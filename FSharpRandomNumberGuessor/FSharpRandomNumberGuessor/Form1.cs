@@ -16,5 +16,10 @@ namespace FSharpRandomNumberGuessor
         {
             label1.Text = FSharpBibliotek.Say.hello("Lernatelier");
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
