@@ -35,6 +35,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -43,6 +44,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(125, 27);
             this.textBox1.TabIndex = 0;
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
@@ -53,6 +55,7 @@
             this.label1.Size = new System.Drawing.Size(522, 20);
             this.label1.TabIndex = 1;
             this.label1.Text = "Eine Zahl zwischen 1 und 100 wurde generiert. Versuche diese herauszufinden.";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
@@ -62,10 +65,12 @@
             this.label2.Size = new System.Drawing.Size(63, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "zu Hoch";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // button1
             // 
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Location = new System.Drawing.Point(325, 188);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
@@ -82,6 +87,7 @@
             this.label3.Size = new System.Drawing.Size(53, 20);
             this.label3.TabIndex = 4;
             this.label3.Text = "zu Tief";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
             // 
@@ -91,21 +97,34 @@
             this.label4.Size = new System.Drawing.Size(55, 20);
             this.label4.TabIndex = 5;
             this.label4.Text = "Richtig";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button2
             // 
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Location = new System.Drawing.Point(324, 367);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(95, 29);
             this.button2.TabIndex = 6;
             this.button2.Text = "Neues Spiel";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(545, 157);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(0, 20);
+            this.label5.TabIndex = 7;
+            this.label5.Visible = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -114,7 +133,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Random Number Generator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -129,5 +148,6 @@
         private Label label3;
         private Label label4;
         private Button button2;
+        private Label label5;
     }
 }
